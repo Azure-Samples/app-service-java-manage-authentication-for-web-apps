@@ -4,9 +4,8 @@ languages:
 - java
 products:
 - azure
-extensions:
-- services: Appservice
-- platforms: java
+description: "Azure App Service sample for managing authentication for web apps."
+urlFragment: app-service-java-manage-authentication-for-web-apps
 ---
 
 # Getting Started with Appservice - Manage Web App With Authentication - in Java #
